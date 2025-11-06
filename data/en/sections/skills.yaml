@@ -13,59 +13,90 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Basic
-  filter: "basic"
-- name: Language
-  filter: "language"
-- name: Container
-  filter: "container"
-- name: Others
-  filter: "others"
+- name: Leadership
+  filter: "leadership"
+- name: Programming
+  filter: "code"
+- name: Data Analysis
+  filter: "data"
+- name: Soft skills
+  filter: "soft"
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  categories: ["container"]
-  url: "https://kubernetes.io/"
+- name: Scientific Project Management
+  logo: /images/sections/skills/ampoule.png
+  summary: "Managing scientific projects that lead to peer-reviewed publications in top-tier journals for the field"
+  categories: ["leadership"]
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  categories: ["basic", "language"]
-  url: "https://golang.org/"
+- name: Interdisciplinary Collaboration
+  logo: /images/sections/skills/collaboration.png
+  summary: "Working closely with industries and academia to achieve unified project goals"
+  categories: ["leadership", "soft"]
+  
+- name: Data Analysis
+  logo: /images/sections/skills/code.png
+  summary: "Handling and manipulating big data for scientific studies at large scales"
+  categories: ["code"]
+  
+- name: Dyanmic Leadership
+  logo: /images/sections/skills/dynamic.png
+  summary: "Learning from experts while offering my expertise to achieve unified project goals in a timely manner"
+  categories: ["leadership", "soft"]
+  
+- name: Self-learner
+  logo: /images/sections/skills/books.png
+  summary: "Keen learner: actively learning state-of-the-art tools to facilitate my work"
+  categories: ["soft"]
+
+- name: Rust
+  logo: /images/sections/skills/rust.png
+  summary: "Writing packages for high-speed geometry rasterization useful for forest inventory purposes"
+  categories: ["code"]
+  url: "https://github.com/ttrotto/rusterize"
+  
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "Python is my main programming language for geospatial analyses and much more"
+  categories: ["code"]
+  
+- name: R
+  logo: /images/sections/skills/r.png
+  summary: "I use R mostly for lidar processing, some spatial analyses, and plotting."
+  categories: ["code"]
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-  categories: ["others"]
-
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  categories: ["container"]
-  url: "https://www.docker.com/"
-
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  categories: ["basic"]
-  url: "https://prometheus.io/"
+  summary: "Worked with Digital Researhc Alliance of Canada cloud computing platform"
+  categories: ["code"]
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-  categories: ["others"]
+  summary: "Using as the main operating system"
+  categories: ["code"]
+  
+- name: lidar
+  logo: /images/sections/skills/lidar.png
+  summary: "lidar data engineering and manipulation (e.g. topography, canopy models, structural characterization, classification)"
+  categories: ["data"]
+  
+- name: Optical Satellite Imagery
+  logo: /images/sections/skills/satellite.png
+  summary: "Satellite data manipulation for modelling, spectral analysis, and classification"
+  categories: ["data"]
+  
+- name: Machine Learning + Stats
+  logo: /images/sections/skills/ml.png
+  summary: "Advanced use of machine learning (e.g Random Forest, Boosted Trees), statistical modelling techniques, and learning more about Deep Learning"
+  categories: ["data"]
+  
+- name: Forestry
+  logo: /images/sections/skills/tree.png
+  summary: "Experience with Forest Resource Inventory data manipulation and applied silvicultural techniques with a North American and European background"
 
-- name: Git
+- name: Collaborative Environments
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  categories: ["basic"]
-  url: "https://git-scm.com/"
+  summary: "Experienced with git-based development, mostly Github"
+  categories: ["code"]
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
-  categories: ["basic", "language"]

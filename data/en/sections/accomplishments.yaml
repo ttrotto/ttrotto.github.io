@@ -11,36 +11,28 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
-  timeline: "March 2018 - March 2019"
+- name: Academic Workshop on AI in Forestry
+  timeline: "March 2025"
   organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://example.com"
+    name: The University of British Columbia
+    url: https://github.com/yuwei-cao-git/DRI-EDIA-F4A
+  courseOverview: "Developing workshops to empower diversity and inclusion in Forestry and AI"
 
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
+- name: Basic Drone Pilot Certificate
+  timeline: "May 2024"
   organization:
-    name: Coursera
-    url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://example.com"
-
-- name: Grokking the System Design Interview
-  timeline: "Jan 2018 - Sept 2018"
-  organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
-
-- name: Mastering Multithreading Programming with Go (Golang)
-  timeline: "Nov 2017 - Mar 2018"
-  organization:
-    name: Udemy
-    url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, multithreading topics.
-  certificateURL: "https://example.com"
- 
+    name: Transport Canada
+  courseOverview: "Basic operations for Small Remotely Piloted Aircraft (VLOS)"
+  
+- name: ESRI Canada Scholarship
+  timeline: "March 2022"
+  organization: 
+    name: The University of British Columbia & ESRI Canada
+  courseOverview: Scholarship for the best map! My submission was on valuating multi-temporal tree height growth using lidar data to map tree height variations over time to understand forest response to natural disturbances in the Petawawa Research Forest in Ontarion, Canada.
+  
+- name: Transatlantic Forestry Master (double-degree program)
+  timeline: "September 2019 - August 2021"
+  organization: 
+    name: Università degli Studi di Padova & The University of British Columbia
+  courseOverview: Qualification for the Transatlantic Forestry Master double-degree program. The program offers highly qualified students the opportunity to earn two Master’s Degrees in Forestry in Europe and Canada.
 
