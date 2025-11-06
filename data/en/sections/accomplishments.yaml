@@ -11,10 +11,10 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Academic Workshop on AI in Forestry
+- name: Academic Workshop on AI in Forestry (UBC, Canada)
   timeline: "March 2025"
   organization:
-    name: The University of British Columbia
+    name: Check it out on GitHub
     url: https://github.com/yuwei-cao-git/DRI-EDIA-F4A
   courseOverview: "Developing workshops to empower diversity and inclusion in Forestry and AI"
 
@@ -35,4 +35,10 @@ accomplishments:
   organization: 
     name: Università degli Studi di Padova & The University of British Columbia
   courseOverview: Qualification for the Transatlantic Forestry Master double-degree program. The program offers highly qualified students the opportunity to earn two Master’s Degrees in Forestry in Europe and Canada.
+  
+- name: Mapping and monitoring landscape configuration effects on natural disturbances from space (Bogota', Colombia)
+  timeline: "October 2024"
+  organization:
+    name: Check it out on YouTube
+    url: https://www.youtube.com/watch?v=zEDFhp-z7TE&t=1335s
 
