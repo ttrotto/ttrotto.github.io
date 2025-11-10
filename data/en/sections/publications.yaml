@@ -63,10 +63,10 @@ publications:
   #categories: ["machinelearning","image-processing"]
   tags: ["Random Forest", "Landsat", "Infestation probabilities", "Landscape"]
   
-- title: (In Press) Spectral remote sensing reveals forest structural characteristics resilient to spruce budworm infestations
+- title: Spectral remote sensing reveals forest structural characteristics resilient to spruce budworm infestations
   publishedIn:
     name: Ecological Indicators
-    date: 
+    date: 26 October 2025
     url: 
   authors:
   - name: M.Sc. Tommaso Trotto
@@ -79,7 +79,7 @@ publications:
     url:
   paper:
     summary: Forest resilience is a central aspect in forest management, but frameworks to quantifying it in a comparable way across studies and environments remain theoretical. In this paper, we operationalized these frameworks by leveraging three decades of Landsat time series surface reflectance composites, in combination with a two-stage clustering approach to quantify forest resilience to insect infestations in a spatially-explicit fashion. To do so, we calculated spectral impact and recovery rate for infested pixels in the boreal forests of Quebec, Canada via three key spectral indexes describing greenness, moisture, and structure. Our results show that boreal forestes are more resilience in greenness and structure than moisture, potentially owning to post-infestation foliage recovery dynamics. 
-    url: https://doi.org/10.1016/j.srs.2024.100160
+    url: https://doi.org/10.1016/j.ecolind.2025.114382
   #categories: ["machinelearning","image-processing"]
   tags: ["Clustering", "Landsat", "Time series", "Resilience"]
 
