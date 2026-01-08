@@ -28,8 +28,10 @@ degrees:
     url: "https://doi.org/10.1016/j.srs.2024.100160"
   - title: Characterizing landscape configuration effects on eastern spruce budworm infestation dynamics
     url: "https://doi.org/10.1007/s10980-025-02203-z"
-  - title: (In Review) Spectral remote sensing reveals forest structural characteristics resilient to spruce budworm infestations
-    url: "#"
+  - title: Spectral remote sensing reveals forest structural characteristics resilient to spruce budworm infestations
+    url: "https://doi.org/10.1016/j.ecolind.2025.114382"
+  - title: (In Preparation) Uncovering forest characteristics supporting resilience to spruce budworm infestation over Quebec, Canada using Landsat time series.
+    url: ""
 - name: M.Sc. in Forestry
   icon: fa-graduation-cap
   timeframe: 2020-2021
