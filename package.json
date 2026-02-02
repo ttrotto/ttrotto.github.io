@@ -30,15 +30,14 @@
       "typeit": "github.com/hugo-toha/toha/v4"
     }
   },
-  "dependencies": {},
   "devDependencies": {
     "@fontsource/mulish": "4.5.13",
     "@fortawesome/fontawesome-free": "^6.6.0",
     "autoprefixer": "^10.4.20",
     "bootstrap": "^5.3.3",
-    "eslint": "^8.31.0",
+    "eslint": "^9.39.2",
     "eslint-config-prettier": "^8.6.0",
-    "eslint-config-standard": "^17.0.0",
+    "eslint-config-standard": "^15.0.1",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-n": "^15.6.0",
     "eslint-plugin-no-jquery": "^2.7.0",
@@ -52,7 +51,7 @@
     "include-media": "^1.4.10",
     "katex": "^0.16.11",
     "mark.js": "^8.11.1",
-    "mermaid": "^11.10.0",
+    "mermaid": "^10.9.5",
     "plyr": "^3.7.2",
     "popper.js": "^1.16.1",
     "postcss": "^8.4.41",
