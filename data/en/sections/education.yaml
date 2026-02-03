@@ -10,145 +10,145 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Forestry and Remote Sensing
-  icon: fa-graduation-cap
-  timeframe: 2016-2020
-  institution:
-    name: The University of British Columbia
-    url: "https://forestry.ubc.ca/"
-    logo: /images/sections/education/ubc.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/tech_college.png
-  #grade: #(optional)
-    #scale: 
+  - name: Ph.D in Forestry and Remote Sensing
+    icon: fa-graduation-cap
+    timeframe: 2016-2020
+    institution:
+      name: The University of British Columbia
+      url: "https://forestry.ubc.ca/"
+      logo: /images/sections/education/ubc.png
+      # Can optionally show a different logo for dark theme
+      # darkLogo: /images/sections/education/tech_college.png
+    #grade: #(optional)
+    #scale:
     #achieved:
     #outOf:
-  publications: #(optional)
-  - title: Characterizing forest structural changes in response to non-stand replacing disturbances using bitemporal airborne laser scanning data
-    url: "https://doi.org/10.1016/j.srs.2024.100160"
-  - title: Characterizing landscape configuration effects on eastern spruce budworm infestation dynamics
-    url: "https://doi.org/10.1007/s10980-025-02203-z"
-  - title: Spectral remote sensing reveals forest structural characteristics resilient to spruce budworm infestations
-    url: "https://doi.org/10.1016/j.ecolind.2025.114382"
-  - title: (In Preparation) Uncovering forest characteristics supporting resilience to spruce budworm infestation over Quebec, Canada using Landsat time series.
-    url: ""
-- name: M.Sc. in Forestry
-  icon: fa-graduation-cap
-  timeframe: 2020-2021
-  institution:
-    name: The University of British Columbia
-    url: "https://forestry.ubc.ca/"
-    logo: /images/sections/education/ubc.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/university.jpg
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: false
-    collapseAfter: 4
-    courses:
-    - name: Advanced Remote Sensing
-    - name: Forest Management Planning
-    - name: Ecological Restoration
-    - name: Ecosystem Services
-    - name: Landscape Ecology and Management
-    - name: Mathematical Modellign in Forest Resource Analysis
-    - name: Leadership and Sustainability
-  customSections: #(optional)
-    - name: Thesis
-      content: Individual tree crown delineation under dense Douglas Fir regeneration
-    - name: Thesis
-      content: Spectroscopic assessment of foliar traits in a dense Douglas Fir forest
-    - name: Supervisor
-      content: Dr. Nicholas Coops
-- name: M.Sc. in Forestry
-  icon: fa-graduation-cap
-  timeframe: 2019-2020
-  institution:
-    name: Università degli Studi di Padova
-    url: "https://www.unipd.it/en/"
-    logo: /images/sections/education/unipd.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/university.jpg
-  grade: #(optional)
-    scale: ECTS
-    achieved: 30 cum laude
-    outOf: 30
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: false
-    collapseAfter: 4
-    courses:
-    - name: Climate Change and Tropical Forestry
-    - name: Integrated Watershed Management
-    - name: Global Change and Forest Ecosystems
-    - name: Natura 2000 Management
-    - name: Biodiversity and Ecosystem Services in Forestry
-    - name: Reduced Impact Timber Harvesting
-    - name: Communication Skills
-    - name: Trees and Stands Responses to the Environment
-    - name: Applied Silviculture and Forest Management
-    - name: Special Topics in Forestry
-    - name: Introduction to GIS
-- name: B.Sc. in Forestry
-  icon: fa-graduation-cap
-  timeframe: 2018
-  institution:
-    name: Sir Sandform Fleming College
-    url: "https://flemingcollege.ca/"
-    logo: /images/sections/education/fleming.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/university.jpg
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: false
-    collapseAfter: 4
-    courses:
-    - name: Forest Products - Utilization and Scaling
-    - name: Silviculture
-    - name: Annual Forest Planning with GIS
-    - name: Tree Sciences & Practices
-    - name: Forest Measurement
-    - name: Forest Inventory
-    - name: Woody Plant Propagation
-    - name: Wildlife Observation
-    - name: Forest Fire Science
-    - name: Trees and Shurbs of Ontario
-    - name: Intro to Indigenous Studies
-    - name: Soil Studies I/II
-- name: B.Sc. in Forestry
-  icon: fa-graduation-cap
-  timeframe: 2016-2018
-  institution:
-    name: Università degli Studi di Padova
-    url: "https://www.unipd.it/en/"
-    logo: /images/sections/education/unipd.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/university.jpg
-  grade: #(optional)
-    scale: ECTS
-    achieved: 30 cum laude
-    outOf: 30
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: false
-    collapseAfter: 4
-    courses:
-    - name: Geomatics
-    - name: Forest Genetics
-    - name: Forest Zoology
-    - name: Ecology
-    - name: Forest Plant Taxonomy
-    - name: Forestry and Environmental Law
-    - name: Silviculture I
-    - name: Soil Science and Soil Chemistry
-    - name: Forest Mensuration
-    - name: Pomology and Horticulture
-    - name: Economics and Policy of Forest Resources 
-    - name: Hydrology and Watershed Management
-    - name: Plant/Animal Biology
-    - name: Mathematics
-    - name: General and Inorganic Chemistry
-    - name: Mineralogy and Geology
-    - name: Physics
-    - name: Principles of Agricultural, Forest, and Environmental Economics
-    - name: Applied Statistics
+    publications: #(optional)
+      - title: Characterizing forest structural changes in response to non-stand replacing disturbances using bitemporal airborne laser scanning data
+        url: "https://doi.org/10.1016/j.srs.2024.100160"
+      - title: Characterizing landscape configuration effects on eastern spruce budworm infestation dynamics
+        url: "https://doi.org/10.1007/s10980-025-02203-z"
+      - title: Spectral remote sensing reveals forest structural characteristics resilient to spruce budworm infestations
+        url: "https://doi.org/10.1016/j.ecolind.2025.114382"
+      - title: (In Review) Uncovering forest characteristics supporting resilience to spruce budworm infestation over Quebec, Canada using Landsat time series.
+        url: ""
+  - name: M.Sc. in Forestry
+    icon: fa-graduation-cap
+    timeframe: 2020-2021
+    institution:
+      name: The University of British Columbia
+      url: "https://forestry.ubc.ca/"
+      logo: /images/sections/education/ubc.png
+      # Can optionally show a different logo for dark theme
+      # darkLogo: /images/sections/education/university.jpg
+    takenCourses: #(optional)
+      # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+      showGrades: false
+      collapseAfter: 4
+      courses:
+        - name: Advanced Remote Sensing
+        - name: Forest Management Planning
+        - name: Ecological Restoration
+        - name: Ecosystem Services
+        - name: Landscape Ecology and Management
+        - name: Mathematical Modellign in Forest Resource Analysis
+        - name: Leadership and Sustainability
+    customSections: #(optional)
+      - name: Thesis
+        content: Individual tree crown delineation under dense Douglas Fir regeneration
+      - name: Thesis
+        content: Spectroscopic assessment of foliar traits in a dense Douglas Fir forest
+      - name: Supervisor
+        content: Dr. Nicholas Coops
+  - name: M.Sc. in Forestry
+    icon: fa-graduation-cap
+    timeframe: 2019-2020
+    institution:
+      name: Università degli Studi di Padova
+      url: "https://www.unipd.it/en/"
+      logo: /images/sections/education/unipd.png
+      # Can optionally show a different logo for dark theme
+      # darkLogo: /images/sections/education/university.jpg
+    grade: #(optional)
+      scale: ECTS
+      achieved: 30 cum laude
+      outOf: 30
+    takenCourses: #(optional)
+      # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+      showGrades: false
+      collapseAfter: 4
+      courses:
+        - name: Climate Change and Tropical Forestry
+        - name: Integrated Watershed Management
+        - name: Global Change and Forest Ecosystems
+        - name: Natura 2000 Management
+        - name: Biodiversity and Ecosystem Services in Forestry
+        - name: Reduced Impact Timber Harvesting
+        - name: Communication Skills
+        - name: Trees and Stands Responses to the Environment
+        - name: Applied Silviculture and Forest Management
+        - name: Special Topics in Forestry
+        - name: Introduction to GIS
+  - name: B.Sc. in Forestry
+    icon: fa-graduation-cap
+    timeframe: 2018
+    institution:
+      name: Sir Sandform Fleming College
+      url: "https://flemingcollege.ca/"
+      logo: /images/sections/education/fleming.png
+      # Can optionally show a different logo for dark theme
+      # darkLogo: /images/sections/education/university.jpg
+    takenCourses: #(optional)
+      # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+      showGrades: false
+      collapseAfter: 4
+      courses:
+        - name: Forest Products - Utilization and Scaling
+        - name: Silviculture
+        - name: Annual Forest Planning with GIS
+        - name: Tree Sciences & Practices
+        - name: Forest Measurement
+        - name: Forest Inventory
+        - name: Woody Plant Propagation
+        - name: Wildlife Observation
+        - name: Forest Fire Science
+        - name: Trees and Shurbs of Ontario
+        - name: Intro to Indigenous Studies
+        - name: Soil Studies I/II
+  - name: B.Sc. in Forestry
+    icon: fa-graduation-cap
+    timeframe: 2016-2018
+    institution:
+      name: Università degli Studi di Padova
+      url: "https://www.unipd.it/en/"
+      logo: /images/sections/education/unipd.png
+      # Can optionally show a different logo for dark theme
+      # darkLogo: /images/sections/education/university.jpg
+    grade: #(optional)
+      scale: ECTS
+      achieved: 30 cum laude
+      outOf: 30
+    takenCourses: #(optional)
+      # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+      showGrades: false
+      collapseAfter: 4
+      courses:
+        - name: Geomatics
+        - name: Forest Genetics
+        - name: Forest Zoology
+        - name: Ecology
+        - name: Forest Plant Taxonomy
+        - name: Forestry and Environmental Law
+        - name: Silviculture I
+        - name: Soil Science and Soil Chemistry
+        - name: Forest Mensuration
+        - name: Pomology and Horticulture
+        - name: Economics and Policy of Forest Resources
+        - name: Hydrology and Watershed Management
+        - name: Plant/Animal Biology
+        - name: Mathematics
+        - name: General and Inorganic Chemistry
+        - name: Mineralogy and Geology
+        - name: Physics
+        - name: Principles of Agricultural, Forest, and Environmental Economics
+        - name: Applied Statistics

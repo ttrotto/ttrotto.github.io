@@ -6,29 +6,32 @@ section:
   weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
-  # hideTitle: true 
+  # hideTitle: true
 
 # Your experiences
 experiences:
-- company:
-    name: Silva21
-    url: "https://www.silva21.com/"
-    location: Vancouver, Canada
-    logo: /images/sections/experiences/silva21.png
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company1.jpg
-    # company overview
-    overview: High Quality Personnel in charge of conducting scientific research on the effect of spruce budworm infestations on forest structure at scale using a combination of lidar and Landsat data a machine learning.
-  positions:
-  - designation: PhD Candidate
-    start: Jan 2022
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Publishing scientific literature on the role of spruce budworm infestations on the structural changes in the boreal forests of Quebec, Canada
-    - Exploring a variety of supervised and unsupervised machine learning techniques to characterize the presence of infestations at the stand and landscape level from lidar point clouds and satellite imagery
-    - Interfacing with cloud computing platforms to process large volumes of data at scale, improving project efficiency
-    - Translating scientific results into potential management strategies at a tactical level
-    - Collaborating and facilitating consultation with partner universities and industries
-    - Actively communicating complex scientific outcomes to a diverse audience of project partners to ensure clarity
+  - company:
+      name: Silva21
+      url: "https://www.silva21.com/"
+      location: Vancouver, Canada
+      logo: /images/sections/experiences/silva21.png
+      # Can optionally show a different logo for dark theme
+      # darkLogo: /images/sections/experiences/company1.jpg
+      # company overview
+      overview: High Quality Personnel in charge of conducting scientific research on the effect of forest disturbances on forest structure at scale using a combination of lidar and Landsat data with machine learning.
+    positions:
+      - designation: PhD Candidate
+        start: Jan 2022
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Publishing scientific literature on the role of insect infestations on the structural changes in the boreal forests of Quebec, Canada
+          - Exploring a variety of supervised and unsupervised machine learning techniques to characterize the presence of infestations at the stand and landscape level from lidar point clouds and satellite imagery
+          - Interfacing with cloud computing platforms (Digital Research Alliance of Canada, SLURM) to process large volumes of data at scale, improving project efficiency
+          - Producing modern software solutions in Rust for very fast geometry rasterization useful for forest inventory purposes
+          - Translating scientific results into potential management strategies at a tactical level
+          - Collaborating and facilitating consultation with partner universities and industries as part of the SILVA21 research program
+          - Actively communicating complex scientific outcomes to a diverse audience of project partners to ensure clarity;
+          - Developing and leading workshops on the use of machine learning techniques for remote sensing data, producing educational resources
+          - Mentoring a diverse groups of graduate researchers to cultivate their skills and promoting their success, underlining leadership and educational prowess
